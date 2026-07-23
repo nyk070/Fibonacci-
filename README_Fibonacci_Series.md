@@ -51,4 +51,4 @@ Operators - `for` Loop - `range()` Function
 
 **Name:** sheresth nayak
 
-**GitHub:** nyk070
+**GitHub:** https://github.com/nyk070
